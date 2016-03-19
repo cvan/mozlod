@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<title>Songs of Diridum</title>
+<link rel="stylesheet" type="text/css" href="css/layout/base.css" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55739361-8', 'auto', {
+    'allowLinker': true
+  });
+  ga('require', 'linker');
+  ga('linker:autoLink', ['goocreate.com', 'gooengine.com']);
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="body">
+    <div id="simple_ui">
+    </div>
+
+   <div id="about_page_content" style="display:none">
+       <div class="about_content">
+		<h2>Welcome to "Songs of Diridum"!</h2><p>This is technical demo demonstrating the Web Audio API. The game world is based on the upcoming game <a href="http://www.lodsaga.com">"Legend of Diridum"</a> built on the <a href="http://www.gooengine.com">Goo Engine</a>.</p>
+		<h2>How to use</h2><ul><li>WASD and arrow keys to move around.</li><li>Mouse to look around.</li><li>The big "Play" button (in the bottom-right corner) toggles sound on/off.</li><li>Open the sound controls (next to the Play button) to toggle individual channels on/off, toggle low-pass filter, or adjust individual channel volume.</li></ul>
+		<h2>Learn more</h2><ul><li>Learn the <a href="https://wiki.mozilla.org/Web_Audio_API">Web Audio API</a>.</li><li>Get the <a href="http://www.gooengine.com">Goo Engine</a>.</li></ul>
+       </div>
+   </div>
+
+    <div id="loading_screen" class="loading_container">
+        <div class="loading_image">
+        </div>
+        <div class="title_label">Songs of Diridum</div>
+        <div id="load_feedback">load feedback</div>
+		<div id="progress_bar_component">
+			<div id="progress_background"></div>
+			<div id="progress_indicator">Loading...</div>
+		</div>
+    </div>
+
+	
+    <script>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-44042010-1']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+	<script src="lib/require.js"></script>
+	<script src="lib/goo.js"></script>
+	<script src="js/mozdemo.js"></script>
+
+</body>
+</html>

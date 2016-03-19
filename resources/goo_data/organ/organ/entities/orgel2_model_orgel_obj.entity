@@ -1,0 +1,24 @@
+{
+    "components": {
+        "transform": {
+            "parentRef": "organ/entities/RootNode.entity",
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                115.0,
+                0.0,
+                38.0
+            ]
+        }
+    },
+    "name": "orgel2:model_orgel_obj",
+    "nodeType": "Null"
+}

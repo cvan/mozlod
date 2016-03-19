@@ -1,0 +1,17 @@
+{
+    "created": "2013-10-02T13:32:28.192000",
+    "deleted": false,
+    "entityRefs": [
+        "drums/entities/drum_0.entity",
+        "drums/entities/RootNode.entity"
+    ],
+    "id": "5b2640cab92c4f5c8dd581d7188a3c1f",
+    "libraryRefs": [
+        "drums/entities/drum_0.entity",
+        "drums/entities/RootNode.entity"
+    ],
+    "modified": "2013-10-02T13:32:34.452000",
+    "name": "Default Goo Project",
+    "parent": null,
+    "public": true
+}

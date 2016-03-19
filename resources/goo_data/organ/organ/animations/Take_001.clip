@@ -1,0 +1,600 @@
+{
+    "binaryRef": "organ/binaries/data.bin",
+    "channels": [
+        {
+            "blendType": "Linear",
+            "jointIndex": 0,
+            "jointName": "root",
+            "name": "_jnt0",
+            "rotationSamples": [
+                0,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                784,
+                147,
+                "float32"
+            ],
+            "times": [
+                1960,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                1372,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 2,
+            "jointName": "l_shoulder",
+            "name": "_jnt2",
+            "rotationSamples": [
+                2156,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                2940,
+                147,
+                "float32"
+            ],
+            "times": [
+                4116,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                3528,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 3,
+            "jointName": "l_hand",
+            "name": "_jnt3",
+            "rotationSamples": [
+                4312,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                5096,
+                147,
+                "float32"
+            ],
+            "times": [
+                6272,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                5684,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 4,
+            "jointName": "l_index_start",
+            "name": "_jnt4",
+            "rotationSamples": [
+                6468,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                7252,
+                147,
+                "float32"
+            ],
+            "times": [
+                8428,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                7840,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 5,
+            "jointName": "l_index_end",
+            "name": "_jnt5",
+            "rotationSamples": [
+                8624,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                9408,
+                147,
+                "float32"
+            ],
+            "times": [
+                10584,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                9996,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 6,
+            "jointName": "l_thumb_start",
+            "name": "_jnt6",
+            "rotationSamples": [
+                10780,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                11564,
+                147,
+                "float32"
+            ],
+            "times": [
+                12740,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                12152,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 7,
+            "jointName": "l_thumb_end",
+            "name": "_jnt7",
+            "rotationSamples": [
+                12936,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                13720,
+                147,
+                "float32"
+            ],
+            "times": [
+                14896,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                14308,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 8,
+            "jointName": "l_pinky_start",
+            "name": "_jnt8",
+            "rotationSamples": [
+                15092,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                15876,
+                147,
+                "float32"
+            ],
+            "times": [
+                17052,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                16464,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 9,
+            "jointName": "l_pinky_end",
+            "name": "_jnt9",
+            "rotationSamples": [
+                17248,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                18032,
+                147,
+                "float32"
+            ],
+            "times": [
+                19208,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                18620,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 11,
+            "jointName": "neck",
+            "name": "_jnt11",
+            "rotationSamples": [
+                19404,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                20188,
+                147,
+                "float32"
+            ],
+            "times": [
+                21364,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                20776,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 12,
+            "jointName": "r_shoulder",
+            "name": "_jnt12",
+            "rotationSamples": [
+                21560,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                22344,
+                147,
+                "float32"
+            ],
+            "times": [
+                23520,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                22932,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 13,
+            "jointName": "r_hand",
+            "name": "_jnt13",
+            "rotationSamples": [
+                23716,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                24500,
+                147,
+                "float32"
+            ],
+            "times": [
+                25676,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                25088,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 14,
+            "jointName": "r_index_start",
+            "name": "_jnt14",
+            "rotationSamples": [
+                25872,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                26656,
+                147,
+                "float32"
+            ],
+            "times": [
+                27832,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                27244,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 15,
+            "jointName": "r_index_end",
+            "name": "_jnt15",
+            "rotationSamples": [
+                28028,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                28812,
+                147,
+                "float32"
+            ],
+            "times": [
+                29988,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                29400,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 16,
+            "jointName": "r_thumb_start",
+            "name": "_jnt16",
+            "rotationSamples": [
+                30184,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                30968,
+                147,
+                "float32"
+            ],
+            "times": [
+                32144,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                31556,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 17,
+            "jointName": "r_thumb_end",
+            "name": "_jnt17",
+            "rotationSamples": [
+                32340,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                33124,
+                147,
+                "float32"
+            ],
+            "times": [
+                34300,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                33712,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 18,
+            "jointName": "r_pinky_start",
+            "name": "_jnt18",
+            "rotationSamples": [
+                34496,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                35280,
+                147,
+                "float32"
+            ],
+            "times": [
+                36456,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                35868,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 19,
+            "jointName": "r_pinky_end",
+            "name": "_jnt19",
+            "rotationSamples": [
+                36652,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                37436,
+                147,
+                "float32"
+            ],
+            "times": [
+                38612,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                38024,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 21,
+            "jointName": "l_hip",
+            "name": "_jnt21",
+            "rotationSamples": [
+                38808,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                39592,
+                147,
+                "float32"
+            ],
+            "times": [
+                40768,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                40180,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 22,
+            "jointName": "l_foot",
+            "name": "_jnt22",
+            "rotationSamples": [
+                40964,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                41748,
+                147,
+                "float32"
+            ],
+            "times": [
+                42924,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                42336,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 23,
+            "jointName": "r_hip",
+            "name": "_jnt23",
+            "rotationSamples": [
+                43120,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                43904,
+                147,
+                "float32"
+            ],
+            "times": [
+                45080,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                44492,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        },
+        {
+            "blendType": "Linear",
+            "jointIndex": 24,
+            "jointName": "r_foot",
+            "name": "_jnt24",
+            "rotationSamples": [
+                45276,
+                196,
+                "float32"
+            ],
+            "scaleSamples": [
+                46060,
+                147,
+                "float32"
+            ],
+            "times": [
+                47236,
+                49,
+                "float32"
+            ],
+            "translationSamples": [
+                46648,
+                147,
+                "float32"
+            ],
+            "type": "Joint"
+        }
+    ],
+    "name": "Take 001"
+}

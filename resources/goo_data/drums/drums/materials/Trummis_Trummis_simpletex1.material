@@ -1,0 +1,57 @@
+{
+    "name": "Trummis:Trummis_simpletex1",
+    "shaderRef": "GOO_ENGINE_SHADERS/uber",
+    "texturesMapping": {
+        "DIFFUSE_MAP": {
+            "enabled": true,
+            "textureRef": "drums/textures/Trummis.texture"
+        }
+    },
+    "type": "Phong",
+    "uniforms": {
+        "materialAmbient": {
+            "enabled": true,
+            "value": [
+                0.4000000059604645,
+                0.4000000059604645,
+                0.4000000059604645,
+                1.0
+            ]
+        },
+        "materialDiffuse": {
+            "enabled": true,
+            "value": [
+                0.800000011920929,
+                0.800000011920929,
+                0.800000011920929,
+                1.0
+            ]
+        },
+        "materialEmissive": {
+            "enabled": true,
+            "value": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "materialSpecular": {
+            "enabled": true,
+            "value": [
+                0.30000001192092896,
+                0.30000001192092896,
+                0.30000001192092896,
+                1.0
+            ]
+        },
+        "materialSpecularPower": {
+            "enabled": true,
+            "value": 3.0
+        },
+        "opacity": {
+            "enabled": true,
+            "value": 1.0
+        }
+    }
+}

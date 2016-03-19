@@ -1,0 +1,19 @@
+{
+    "created": "2013-10-02T13:33:14.100000",
+    "deleted": false,
+    "entityRefs": [
+        "saxophone/entities/saxophone_0.entity",
+        "saxophone/entities/RootNode.entity",
+        "saxophone/entities/gravity.entity"
+    ],
+    "id": "cf4c5f0d0f044cf5acc10a3456e6e647",
+    "libraryRefs": [
+        "saxophone/entities/saxophone_0.entity",
+        "saxophone/entities/RootNode.entity",
+        "saxophone/entities/gravity.entity"
+    ],
+    "modified": "2013-10-02T13:33:18.887000",
+    "name": "Default Goo Project",
+    "parent": null,
+    "public": true
+}

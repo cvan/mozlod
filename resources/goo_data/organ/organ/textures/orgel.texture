@@ -1,0 +1,17 @@
+{
+    "fileName": "orgel.png",
+    "magFilter": "Bilinear",
+    "minFilter": "Trilinear",
+    "name": "orgel",
+    "offset": [
+        0.0,
+        0.0
+    ],
+    "repeat": [
+        1.0,
+        1.0
+    ],
+    "url": "organ/images/orgel.png",
+    "wrapU": "Repeat",
+    "wrapV": "Repeat"
+}

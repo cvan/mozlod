@@ -1,0 +1,21 @@
+{
+    "created": "2013-10-02T13:32:45.739000",
+    "deleted": false,
+    "entityRefs": [
+        "organ/entities/organ_0.entity",
+        "organ/entities/orgel2_model_orgel_obj.entity",
+        "organ/entities/RootNode.entity",
+        "organ/entities/gravity.entity"
+    ],
+    "id": "10e49f68fb8b43dc8f830b6db0538441",
+    "libraryRefs": [
+        "organ/entities/organ_0.entity",
+        "organ/entities/orgel2_model_orgel_obj.entity",
+        "organ/entities/RootNode.entity",
+        "organ/entities/gravity.entity"
+    ],
+    "modified": "2013-10-02T13:32:50.100000",
+    "name": "Default Goo Project",
+    "parent": null,
+    "public": true
+}

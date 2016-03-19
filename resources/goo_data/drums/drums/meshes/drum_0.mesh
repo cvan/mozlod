@@ -1,0 +1,63 @@
+{
+    "binaryRef": "drums/binaries/data.bin",
+    "boundingVolume": {
+        "max": [
+            36.0,
+            47.0,
+            46.0
+        ],
+        "min": [
+            -33.0,
+            -1.0,
+            -9.0
+        ],
+        "type": "BoundingBox"
+    },
+    "colors": [],
+    "indexLengths": [
+        96468
+    ],
+    "indexModes": [
+        "Triangles"
+    ],
+    "indices": [
+        0,
+        96468,
+        "uint16"
+    ],
+    "joints": [
+        1494256,
+        130132,
+        "uint8"
+    ],
+    "name": "drum",
+    "normals": [
+        583332,
+        97599,
+        "float32"
+    ],
+    "tangents": [
+        973728,
+        130132,
+        "float32"
+    ],
+    "textureCoords": [
+        [
+            2144916,
+            65066,
+            "float32"
+        ]
+    ],
+    "type": "SkinnedMesh",
+    "vertexCount": 32533,
+    "vertices": [
+        192936,
+        97599,
+        "float32"
+    ],
+    "weights": [
+        1624388,
+        130132,
+        "float32"
+    ]
+}

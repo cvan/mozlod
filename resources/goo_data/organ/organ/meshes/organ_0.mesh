@@ -1,0 +1,63 @@
+{
+    "binaryRef": "organ/binaries/data.bin",
+    "boundingVolume": {
+        "max": [
+            -104.0,
+            128.0,
+            147.0
+        ],
+        "min": [
+            -126.0,
+            -147.0,
+            -100
+        ],
+        "type": "BoundingBox"
+    },
+    "colors": [],
+    "indexLengths": [
+        28572
+    ],
+    "indexModes": [
+        "Triangles"
+    ],
+    "indices": [
+        47432,
+        28572,
+        "uint16"
+    ],
+    "joints": [
+        866496,
+        76192,
+        "uint8"
+    ],
+    "name": "organ",
+    "normals": [
+        333152,
+        57144,
+        "float32"
+    ],
+    "tangents": [
+        561728,
+        76192,
+        "float32"
+    ],
+    "textureCoords": [
+        [
+            1247456,
+            38096,
+            "float32"
+        ]
+    ],
+    "type": "SkinnedMesh",
+    "vertexCount": 19048,
+    "vertices": [
+        104576,
+        57144,
+        "float32"
+    ],
+    "weights": [
+        942688,
+        76192,
+        "float32"
+    ]
+}

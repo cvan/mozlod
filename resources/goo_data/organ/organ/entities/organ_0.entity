@@ -1,0 +1,37 @@
+{
+    "components": {
+        "meshData": {
+            "meshRef": "organ/meshes/organ_0.mesh",
+            "poseRef": "organ/skeletons/Skeleton.skeleton"
+        },
+        "meshRenderer": {
+            "castShadows": false,
+            "cullMode": "Dynamic",
+            "materialRefs": [
+                "organ/materials/orgel2_orgel_simpletex1.material"
+            ],
+            "receiveShadows": false,
+            "reflectable": false
+        },
+        "transform": {
+            "parentRef": "organ/entities/orgel2_model_orgel_obj.entity",
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "name": "organ",
+    "nodeType": "Mesh"
+}

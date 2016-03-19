@@ -1,0 +1,27 @@
+{
+    "components": {
+        "animation": {
+            "layersRef": "drums/animations/Animations.animation",
+            "poseRef": "drums/skeletons/Skeleton.skeleton"
+        },
+        "transform": {
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "name": "drums",
+    "nodeType": "Null"
+}

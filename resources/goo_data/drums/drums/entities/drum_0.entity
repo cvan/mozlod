@@ -1,0 +1,37 @@
+{
+    "components": {
+        "meshData": {
+            "meshRef": "drums/meshes/drum_0.mesh",
+            "poseRef": "drums/skeletons/Skeleton.skeleton"
+        },
+        "meshRenderer": {
+            "castShadows": false,
+            "cullMode": "Dynamic",
+            "materialRefs": [
+                "drums/materials/Trummis_Trummis_simpletex1.material"
+            ],
+            "receiveShadows": false,
+            "reflectable": false
+        },
+        "transform": {
+            "parentRef": "drums/entities/RootNode.entity",
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "name": "drum",
+    "nodeType": "Mesh"
+}

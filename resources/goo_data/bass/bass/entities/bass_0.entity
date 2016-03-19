@@ -1,0 +1,37 @@
+{
+    "components": {
+        "meshData": {
+            "meshRef": "bass/meshes/bass_0.mesh",
+            "poseRef": "bass/skeletons/Skeleton.skeleton"
+        },
+        "meshRenderer": {
+            "castShadows": false,
+            "cullMode": "Dynamic",
+            "materialRefs": [
+                "bass/materials/basen3_basen_simpletex1.material"
+            ],
+            "receiveShadows": false,
+            "reflectable": false
+        },
+        "transform": {
+            "parentRef": "bass/entities/RootNode.entity",
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "name": "bass",
+    "nodeType": "Mesh"
+}

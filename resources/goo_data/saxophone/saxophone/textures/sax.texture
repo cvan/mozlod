@@ -1,0 +1,17 @@
+{
+    "fileName": "sax.png",
+    "magFilter": "Bilinear",
+    "minFilter": "Trilinear",
+    "name": "sax",
+    "offset": [
+        0.0,
+        0.0
+    ],
+    "repeat": [
+        1.0,
+        1.0
+    ],
+    "url": "saxophone/images/sax.png",
+    "wrapU": "Repeat",
+    "wrapV": "Repeat"
+}

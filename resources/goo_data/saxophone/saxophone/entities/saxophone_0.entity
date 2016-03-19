@@ -1,0 +1,37 @@
+{
+    "components": {
+        "meshData": {
+            "meshRef": "saxophone/meshes/saxophone_0.mesh",
+            "poseRef": "saxophone/skeletons/Skeleton.skeleton"
+        },
+        "meshRenderer": {
+            "castShadows": false,
+            "cullMode": "Dynamic",
+            "materialRefs": [
+                "saxophone/materials/sax10_sax_simpletex1.material"
+            ],
+            "receiveShadows": false,
+            "reflectable": false
+        },
+        "transform": {
+            "parentRef": "saxophone/entities/RootNode.entity",
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                2.0
+            ]
+        }
+    },
+    "name": "saxophone",
+    "nodeType": "Mesh"
+}

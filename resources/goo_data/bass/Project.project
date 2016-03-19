@@ -1,0 +1,17 @@
+{
+    "created": "2013-10-02T13:31:43.138000",
+    "deleted": false,
+    "entityRefs": [
+        "bass/entities/bass_0.entity",
+        "bass/entities/RootNode.entity"
+    ],
+    "id": "7c427354b0564abe97e318b30e3940ff",
+    "libraryRefs": [
+        "bass/entities/bass_0.entity",
+        "bass/entities/RootNode.entity"
+    ],
+    "modified": "2013-10-02T13:31:49.989000",
+    "name": "Default Goo Project",
+    "parent": null,
+    "public": true
+}

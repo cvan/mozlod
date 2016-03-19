@@ -1,0 +1,27 @@
+{
+    "components": {
+        "animation": {
+            "layersRef": "saxophone/animations/Animations.animation",
+            "poseRef": "saxophone/skeletons/Skeleton.skeleton"
+        },
+        "transform": {
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "name": "saxophone",
+    "nodeType": "Null"
+}

@@ -1,0 +1,63 @@
+{
+    "binaryRef": "saxophone/binaries/data.bin",
+    "boundingVolume": {
+        "max": [
+            15.0,
+            47.0,
+            8.0
+        ],
+        "min": [
+            -12.0,
+            -2.0,
+            -17.0
+        ],
+        "type": "BoundingBox"
+    },
+    "colors": [],
+    "indexLengths": [
+        37320
+    ],
+    "indexModes": [
+        "Triangles"
+    ],
+    "indices": [
+        51744,
+        37320,
+        "uint16"
+    ],
+    "joints": [
+        670664,
+        54428,
+        "uint8"
+    ],
+    "name": "saxophone",
+    "normals": [
+        289668,
+        40821,
+        "float32"
+    ],
+    "tangents": [
+        452952,
+        54428,
+        "float32"
+    ],
+    "textureCoords": [
+        [
+            942804,
+            27214,
+            "float32"
+        ]
+    ],
+    "type": "SkinnedMesh",
+    "vertexCount": 13607,
+    "vertices": [
+        126384,
+        40821,
+        "float32"
+    ],
+    "weights": [
+        725092,
+        54428,
+        "float32"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "clipSource": {
+        "clipRef": "saxophone/animations/Take_001.clip",
+        "loopCount": -1,
+        "timeScale": 1.0,
+        "type": "Clip"
+    },
+    "name": "Take 001"
+}

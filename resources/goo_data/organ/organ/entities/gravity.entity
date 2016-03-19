@@ -1,0 +1,24 @@
+{
+    "components": {
+        "transform": {
+            "parentRef": "organ/entities/RootNode.entity",
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                1.4210854715202004e-14,
+                0.0,
+                -2.142730437526552e-14
+            ]
+        }
+    },
+    "name": "gravity",
+    "nodeType": "NurbsCurve"
+}

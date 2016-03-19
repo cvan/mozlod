@@ -1,0 +1,24 @@
+{
+    "components": {
+        "transform": {
+            "parentRef": "saxophone/entities/RootNode.entity",
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                1.9984014443252818e-14,
+                0.0,
+                -2.053218706166149e-14
+            ]
+        }
+    },
+    "name": "gravity",
+    "nodeType": "NurbsCurve"
+}

@@ -1,0 +1,17 @@
+{
+    "fileName": "Trummis.png",
+    "magFilter": "Bilinear",
+    "minFilter": "Trilinear",
+    "name": "Trummis",
+    "offset": [
+        0.0,
+        0.0
+    ],
+    "repeat": [
+        1.0,
+        1.0
+    ],
+    "url": "drums/images/Trummis.png",
+    "wrapU": "Repeat",
+    "wrapV": "Repeat"
+}

@@ -1,0 +1,378 @@
+#goo {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+#body {
+    position:absolute;
+    text-align: center;
+    font-family: arial;
+    font-size: 9px;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+
+#simple_ui {
+    font-family: arial;
+    position: absolute;
+    bottom: 1em;
+    z-index:1;
+}
+
+a {
+    color: #aaf;
+}
+
+a:hover {
+    color: #ccf;
+}
+
+a:active {
+    color: #88f;
+}
+
+a:visited {
+    color: #f8f;
+}
+
+div.controls_container {
+    position: absolute;
+    left: 24em;
+    bottom: 1em;
+    width: 28em;
+    background-color: #503704;
+    padding: 0.6em;
+    border: 0.3em solid #210;
+}
+
+div.channel_box {
+    color: #fff;
+    display: inline-block;
+    width: 5.3em;
+    background-color: rgba(0, 0, 0, 0.4);
+    margin: 0.3em;
+    padding: 0.2em;
+    border: 0.3em solid #864;
+}
+
+div.gain_level {
+    position: relative;
+    display: inline-block;
+    left: 0px;
+    right: 0px;
+    height: 30%;
+    width: 100%;
+    background-image: url(../../resources/ui/volume_knob.png);
+    background-size: 100% 100%;
+}
+
+div.SJ_PIANO {
+    margin-bottom: 1em;
+    width: 5.3em;
+    height: 7em;
+    background-image: url(../../resources/ui/piano_off.png);
+    background-size: 100% 100%;
+}
+
+div.SJ_PIANO_on {
+    background-image: url(../../resources/ui/piano_on.png);
+}
+
+div.SJ_SAX {
+    margin-bottom: 1em;
+    width: 5.3em;
+    height: 7em;
+    background-image: url(../../resources/ui/sax_off.png);
+    background-size: 100% 100%;
+}
+
+div.SJ_SAX_on {
+    background-image: url(../../resources/ui/sax_on.png);
+}
+
+div.SJ_DRUMS {
+    margin-bottom: 1em;
+    width: 5.3em;
+    height: 7em;
+    background-image: url(../../resources/ui/drum_off.png);
+    background-size: 100% 100%;
+}
+
+div.SJ_DRUMS_on {
+    background-image: url(../../resources/ui/drum_on.png);
+}
+
+div.SJ_BASS {
+    margin-bottom: 1em;
+    width: 5.3em;
+    height: 7em;
+    background-image: url(../../resources/ui/bass_off.png);
+    background-size: 100% 100%;
+}
+
+div.SJ_BASS_on {
+    background-image: url(../../resources/ui/bass_on.png);
+}
+
+
+div.filter_button {
+    margin-bottom: 1em;
+    width: 5.3em;
+    height: 5em;
+    background-image: url(../../resources/ui/filter_off.png);
+    background-size: 100% 100%;
+}
+
+div.filter_button_on {
+    background-image: url(../../resources/ui/filter_on.png);
+}
+
+div.gain_box {
+    width: 5.3em;
+    height: 10em;
+    background-image: url(../../resources/ui/volume_box.png);
+    background-size: 100% 100%;
+}
+
+div.mix_button {
+    color: #242;
+    margin: 0.2em;
+    width: 5em;
+    font-size: 2em;
+    display: inline-block;
+    background-color: #aaa;
+ /*
+    box-shadow: 0px 0px 0.2em #000;
+ */
+}
+div.mix_button:hover {
+    background-color: #ccc;
+}
+
+div.mix_button:active {
+    background-color: #bbb;
+}
+
+div.mix_button_on {
+    color: #8f8;
+}
+
+div.about_page{
+    font-family: arial;
+    color: #fff;
+    z-index: 2;
+    padding: 1.5em;
+    height: auto;
+    position: absolute;
+    top: 0px;
+    font-size: 1.5em;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow-y: auto;
+    text-align: center;
+  /*
+    box-shadow: 0px 0px 0.2em #000;
+  */
+    border-radius: 0.5em;
+    border: 1px solid #888;
+}
+
+div.about_content {
+    display: inline-block;
+    text-align: left;
+    max-width: 40em;
+}
+
+div.about_button {
+    font-family: arial;
+    color: #fff;
+    padding: 0.2em;
+    z-index: 2;
+    margin: 0.2em;
+    height: 5em;
+    width: 4em;
+    position: absolute;
+    bottom: 0.5em;
+    font-size: 1.5em;
+    right: 0.8em;
+    display: inline-block;
+    background-image: url(../../resources/ui/about_button.png);
+    background-size: 100% 100%;
+}
+
+div.about_button:hover {
+
+}
+
+div.about_button:active {
+
+}
+
+div.conduct_button {
+    margin: 0.2em;
+    height: 3em;
+    position: absolute;
+    top: -3.4em;
+    font-size: 3em;
+    left: 0.3em;
+    text-align: "center";
+    width: 3em;
+    display: inline-block;
+    background-image: url(../../resources/ui/play_off.png);
+    background-size: 100% 100%;
+ /*
+    box-shadow: 0px 0px 0.2em #000;
+ */
+}
+
+div.conduct_button:hover {
+
+}
+
+div.conduct_button:active {
+
+}
+
+div.conduct_button_enabled {
+    background-image: url(../../resources/ui/play_on.png);
+
+}
+
+
+div.show_controls_button {
+    margin: 0.2em;
+    height: 9em;
+    position: absolute;
+    top: -9.8em;
+    font-size: 1em;
+    left: 11.3em;
+    text-align: "center";
+    width: 11em;
+    display: inline-block;
+    background-image: url(../../resources/ui/mixer_button.png);
+    background-size: 100% 100%;
+}
+
+
+div.sound_control_panel {
+
+}
+
+div.mix_header {
+    width: 95%;
+
+    top: -1.2em;
+    margin: 0.2em;
+    text-align: center;
+    display: block;
+    border: 1px solid #fff;
+    padding-left: 0.2em;
+}
+
+div.mix_prop {
+    width: 100%;
+    display: block;
+}
+
+div.mix_value {
+    display: inline-block;
+    right: 0px;
+    width: 6em;
+    text-align: right;
+}
+
+div.mix_spectrum_bar_container {
+    height: 2em;
+    width: 0.9em;
+
+    position: relative;
+    display: inline-block;
+    background-color: #141;
+}
+div.mix_spectrum_bar {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    background-color: #7f7;
+}
+
+div.loading_container {
+    text-align: center;
+    position: absolute;
+    z-index: 100;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #000;
+}
+
+div.loading_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(../../resources/ui/splash.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div.title_label {
+    color: #fff;
+    width: 100%;
+    position: absolute;
+    font-size: 6em;
+    top: 30%;
+    text-shadow: 0.05em 0.05em 0.02em #000;
+}
+
+#load_feedback {
+	display: none;
+    text-align: left;
+    color: #fff;
+    width: 90%;
+    left: 5em;
+    position: absolute;
+    font-size: 1em;
+    bottom: 4%;
+    text-shadow: 0.15em 0.15em 0.05em #000;
+}
+
+#progress_bar_component {
+	position: absolute;
+	z-index: 100;
+	left: 50%;
+	margin-left: -300px;
+	width: 596px;
+	top: 50%;
+	margin-top: -30px;
+	height: 40px;
+	border: 2px solid white;
+	overflow: hidden;
+	border-radius: 10px;
+}
+
+#progress_background {
+	width: 0;
+	height: 40px;
+	background-color: white;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+#progress_indicator {
+    position: relative;
+    left: 0px;
+    top: -34px;
+	color: white;
+	font: 24px "Helvetica Neue", sans-serif;
+}

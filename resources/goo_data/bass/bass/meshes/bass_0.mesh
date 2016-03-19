@@ -1,0 +1,63 @@
+{
+    "binaryRef": "bass/binaries/data.bin",
+    "boundingVolume": {
+        "max": [
+            20.213735580444336,
+            47.0,
+            24.0
+        ],
+        "min": [
+            -10.062344551086426,
+            -18.0,
+            -9.0
+        ],
+        "type": "BoundingBox"
+    },
+    "colors": [],
+    "indexLengths": [
+        53892
+    ],
+    "indexModes": [
+        "Triangles"
+    ],
+    "indices": [
+        0,
+        53892,
+        "uint16"
+    ],
+    "joints": [
+        798024,
+        69024,
+        "uint8"
+    ],
+    "name": "bass",
+    "normals": [
+        314856,
+        51768,
+        "float32"
+    ],
+    "tangents": [
+        521928,
+        69024,
+        "float32"
+    ],
+    "textureCoords": [
+        [
+            1143144,
+            34512,
+            "float32"
+        ]
+    ],
+    "type": "SkinnedMesh",
+    "vertexCount": 17256,
+    "vertices": [
+        107784,
+        51768,
+        "float32"
+    ],
+    "weights": [
+        867048,
+        69024,
+        "float32"
+    ]
+}
